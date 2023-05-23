@@ -89,6 +89,11 @@
       <version>1.0.0</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+		<groupId>xalan</groupId>
+		<artifactId>xalan</artifactId>
+		<version>2.7.0</version>
+	</dependency>
   </dependencies>
 
   <!-- Alas, need to include snapshot reference since otherwise can not find
